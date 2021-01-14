@@ -15,6 +15,9 @@ nav ul li a{
     font-size: 18px;
 }
 /* first section part css start */
+.logo{
+    width: 350px;
+}
 .color-top{
     margin-bottom: -10px;
     color: #FABE4C;
@@ -53,8 +56,8 @@ nav ul li a{
     border-radius: 12px;
 }
 .main-section img{
-    width: 320px;
-    height: 380px;
+    width: 290px;
+    height: 360px;
     background-color: #ddd;
     padding: 20px 25px;
     border-radius: 10px;
