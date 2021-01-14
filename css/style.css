@@ -42,6 +42,7 @@ nav ul li a{
     margin-left: 100px;
 }
 /* first section part css end */
+
 /* main part css start */
 .color-usd{
     color: #FABE4C;
@@ -67,6 +68,9 @@ nav ul li a{
     background-color: #fff;
     border: 0;
 }
+/* main part css end */
+
+/* contact & support part css */
 .row-column{
     background-color: #fff;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
@@ -75,9 +79,6 @@ nav ul li a{
     padding: 10px 0px;
 
 }
-/* main part css end */
-
-/* contact & support part css */
 .contact-title{
     color: #434662;
     font-weight: bold;
