@@ -6,9 +6,15 @@ body{
     background-color: #FFFBF0;
     font-family: 'Roboto', sans-serif;
 }
+p{
+    font-size: 16px;
+    font-weight: regular;
+    color: #565656;
+}
 nav ul li a{
     font-size: 18px;
 }
+/* first section part css start */
 .color-top{
     margin-bottom: -10px;
     color: #FABE4C;
@@ -21,9 +27,79 @@ nav ul li a{
     font-weight: regular;
 }
 
-.button-color{
+.button-color-home{
     background-color: #90AA29;
-}
-button{
     border-radius: 10px;
 }
+.color-head{
+    color: #363958;
+    font-size: 35px;
+    font-weight: bold;
+}
+.button-color{
+    background-color: #90AA29;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+/* first section part css end */
+/* main part css start */
+.color-usd{
+    color: #FABE4C;
+}
+.main-section{
+    border: none;
+    padding: 10px 0px;
+    border-radius: 12px;
+}
+.main-section img{
+    width: 320px;
+    height: 380px;
+    background-color: #ddd;
+    padding: 20px 25px;
+    border-radius: 10px;
+}
+.main-section .card-title{
+    color: #434662;
+    font-weight: bold;
+    font-size: 24px;
+}
+.main-section .jacket-footer{
+    background-color: #fff;
+    border: 0;
+}
+.row-column{
+    background-color: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    border-radius: 10px;
+    margin: 5px 0px;
+    padding: 10px 0px;
+
+}
+/* main part css end */
+
+/* contact & support part css */
+.contact-title{
+    color: #434662;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* footer css start */
+footer{
+    background-color: #515151;
+    color: #fff;
+}
+footer p{
+    
+    font-size: 16px;
+    font-weight: regular;
+    color: #fff;
+}
+footer .margin{
+	display: block;
+	height: 2px;
+	background-color: #dcdcdc;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+/* footer css end */
